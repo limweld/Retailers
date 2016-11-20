@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Retailers.Database.DBBarangays" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAEAAAACAAAAAAEAAABAAQAACAAAkA=</HashCode>
+      <FileName>Database\DBBarangay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Database.DBCities" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAEAAQgAAUAAAAAAAAAAAEAAABAAQAAAAAAkA=</HashCode>
+      <FileName>Database\DBCities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Database.DBConnection" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Database\DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Database.DBProvinces" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAgAAEAAAAAAAAAAAEAAABAAQAAAAAAkA=</HashCode>
+      <FileName>Database\DBProvinces.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Database.DBRetailers" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYyAAAEEAABBAAIRQoACEAIAAEAAAABACCAAwAgMAI=</HashCode>
+      <FileName>Database\DBRetailers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Program" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Retailers">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cKogDEACACAJAFBICgKZDERCIACxZwAAAKCAghAqIAg=</HashCode>
+      <FileName>Retailers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Retailers.Properties.Settings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

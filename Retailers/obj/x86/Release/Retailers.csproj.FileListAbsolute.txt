@@ -1,0 +1,7 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Release\Retailers.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Release\Retailers.Retailers.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Release\Retailers.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\bin\Release\Retailers.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\bin\Release\Retailers.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Release\Retailers.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Release\Retailers.pdb

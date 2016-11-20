@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7EB81496-0A2E-4720-BA2D-C78B17521B1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Retailers</RootNamespace>
+    <AssemblyName>Retailers</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GSMCommServer, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\TextBlast\GatewaywithLib\bin\Debug\GSMCommServer.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommShared, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\TextBlast\GatewaywithLib\bin\Debug\GSMCommShared.dll</HintPath>
+    </Reference>
+    <Reference Include="GSMCommunication, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\TextBlast\GatewaywithLib\bin\Debug\GSMCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\ElectionBlaster\GatewaywithLib\bin\Debug\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\ElectionBlaster\GatewaywithLib\bin\Debug\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PDUConverter, Version=1.21.0.0, Culture=neutral, PublicKeyToken=515d87df384dcc81, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\TextBlast\GatewaywithLib\bin\Debug\PDUConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\Message.cs" />
+    <Compile Include="Database\DBMessages\DBInbox.cs" />
+    <Compile Include="Database\DBMessages\DBInboxLog.cs" />
+    <Compile Include="Database\DBMessages\DBOutbox.cs" />
+    <Compile Include="Database\DBMessages\DBOutboxLog.cs" />
+    <Compile Include="Database\DBPostpaidBill\DBPostpaidBill.cs" />
+    <Compile Include="Database\DBPostpaidBill\DBPostPaidBillCategory.cs" />
+    <Compile Include="Database\DBPrefix.cs" />
+    <Compile Include="Database\DBPrepaidCable\DBPrepaidCableAmount.cs" />
+    <Compile Include="Database\DBTelco.cs" />
+    <Compile Include="Database\DBTransactions\DBPostpaidBillTransaction.cs" />
+    <Compile Include="Database\DBTransactions\DBPrepaidCableTransactions.cs" />
+    <Compile Include="Forms\BillsPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BillsPayment.Designer.cs">
+      <DependentUpon>BillsPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillsPaymentTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BillsPaymentTransaction.Designer.cs">
+      <DependentUpon>BillsPaymentTransaction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillsPrefixAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BillsPrefixAdd.Designer.cs">
+      <DependentUpon>BillsPrefixAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BillsPrefixes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BillsPrefixes.Designer.cs">
+      <DependentUpon>BillsPrefixes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrepaidCableCards.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrepaidCableCards.Designer.cs">
+      <DependentUpon>PrepaidCableCards.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrepaidCablePrefixes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrepaidCablePrefixes.designer.cs">
+      <DependentUpon>PrepaidCablePrefixes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\DBLocalAddress\DBBarangay.cs" />
+    <Compile Include="Database\DBLocalAddress\DBCities.cs" />
+    <Compile Include="Database\DBConnection.cs" />
+    <Compile Include="Database\DBPrepaidCable\DBPrepaidCable.cs" />
+    <Compile Include="Database\DBPrepaidCable\DBPrepaidCards.cs" />
+    <Compile Include="Database\DBPrepaidCable\DBPrepaidCardslog.cs" />
+    <Compile Include="Database\DBLocalAddress\DBProvinces.cs" />
+    <Compile Include="Database\DBRetailers.cs" />
+    <Compile Include="Forms\PrepaidCableTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrepaidCableTransactions.Designer.cs">
+      <DependentUpon>PrepaidCableTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ReceiverForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ReceiverForm.Designer.cs">
+      <DependentUpon>ReceiverForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Retailers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Retailers.Designer.cs">
+      <DependentUpon>Retailers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SenderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SenderForm.designer.cs">
+      <DependentUpon>SenderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SMS\ShortMessage.cs" />
+    <Compile Include="SMS\ShortMessageCollection.cs" />
+    <Compile Include="SMS\SimPortsConnection.cs" />
+    <Compile Include="SMS\SMSCommands.cs" />
+    <Compile Include="SMS\SMSControl.cs" />
+    <EmbeddedResource Include="Forms\BillsPayment.resx">
+      <DependentUpon>BillsPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BillsPaymentTransaction.resx">
+      <DependentUpon>BillsPaymentTransaction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BillsPrefixAdd.resx">
+      <DependentUpon>BillsPrefixAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BillsPrefixes.resx">
+      <DependentUpon>BillsPrefixes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrepaidCableCards.resx">
+      <DependentUpon>PrepaidCableCards.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrepaidCablePrefixes.resx">
+      <DependentUpon>PrepaidCablePrefixes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrepaidCableTransactions.resx">
+      <DependentUpon>PrepaidCableTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ReceiverForm.resx">
+      <DependentUpon>ReceiverForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SenderForm.resx">
+      <DependentUpon>SenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\Retailers.resx">
+      <DependentUpon>Retailers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,105 @@
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\bin\Debug\Retailers.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\bin\Debug\Retailers.pdb
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+C:\Users\Lenovo\documents\visual studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableRegistration.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableTransactions.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Retailers.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.ReceiverForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.SenderForm.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommShared.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommunication.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\PDUConverter.dll
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.MotherAccount.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+E:\ \New folder\Retailers\Retailers\bin\Debug\Retailers.exe
+E:\ \New folder\Retailers\Retailers\bin\Debug\Retailers.pdb
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.csprojResolveAssemblyReference.cache
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.MotherAccount.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableRegistration.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableTransactions.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.ReceiverForm.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.SenderForm.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Properties.Resources.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Retailers.resources
+E:\ \New folder\Retailers\Retailers\obj\x86\Debug\Retailers.csproj.GenerateResource.Cache
+C:\Users\Limwel\Desktop\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+C:\Users\Limwel\Desktop\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.MotherAccount.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableRegistration.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableTransactions.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.ReceiverForm.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.SenderForm.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Retailers.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\Retailers.exe
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\Retailers.pdb
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\GSMCommServer.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\GSMCommShared.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\GSMCommunication.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\MetroFramework.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\bin\Debug\PDUConverter.dll
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableCards.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableCode.resources
+C:\Users\Lenovo\Desktop\Today\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Form1.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\bin\Debug\Retailers.exe
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\bin\Debug\Retailers.pdb
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.csprojResolveAssemblyReference.cache
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.MotherAccount.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableCards.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableCode.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableTransactions.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.ReceiverForm.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.SenderForm.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Properties.Resources.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Retailers.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.csproj.GenerateResource.Cache
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\bin\Debug\MetroFramework.dll
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Main.resources
+C:\Users\Limwel\Desktop\New Folder (2)\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.LoadFund.resources
+E:\ \New folder\thisSaturday\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+E:\ \New folder\thisSaturday\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\Retailers.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\Retailers.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommServer.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommShared.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommunication.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\PDUConverter.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommServer.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommShared.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\GSMCommunication.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\bin\Debug\PDUConverter.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.BillsPayment.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.BillsPaymentTransaction.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.History.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableCards.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCableTransactions.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.ReceiverForm.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.SenderForm.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Main.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.Retailers.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.BillsPrefixes.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.BillsPrefixAdd.resources
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Retailers\Retailers\obj\x86\Debug\Retailers.Forms.PrepaidCablePrefixes.resources
+D:\lemzfile\Lemz\Project\RetailersV3\Retailers\obj\x86\Debug\Retailers.exe
+D:\lemzfile\Lemz\Project\RetailersV3\Retailers\obj\x86\Debug\Retailers.pdb
